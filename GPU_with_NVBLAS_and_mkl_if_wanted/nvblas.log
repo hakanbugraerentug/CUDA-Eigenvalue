@@ -1,0 +1,82 @@
+[NVBLAS] Cannot parse line 10 in config file
+[NVBLAS] Cannot parse line 13 in config file
+[NVBLAS] Cannot parse line 18 in config file
+[NVBLAS] Cannot parse line 20 in config file
+[NVBLAS] Cannot parse line 26 in config file
+[NVBLAS] Using devices :0 
+[NVBLAS] Cannot parse line 30 in config file
+[NVBLAS] Cannot parse line 33 in config file
+[NVBLAS] Cannot parse line 36 in config file
+[NVBLAS] Cannot parse line 40 in config file
+[NVBLAS] Cannot parse line 45 in config file
+[NVBLAS] Cannot parse line 52 in config file
+[NVBLAS] Config parsed
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=18, n=9, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=18, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=T, tb=N, m=9, n=18, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=18, n=9, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=18, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=T, tb=N, m=9, n=18, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=18, n=9, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=18, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=T, tb=N, m=9, n=18, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=18
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=9, n=9, k=9
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=729, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=729, n=729, k=729
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=27
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=27
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=27
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=9
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=1701, n=2187, k=2187
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=1701, n=1701, k=2187
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=1701, n=2187, k=2187
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=1701, n=1701, k=2187
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=27
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=27
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=9
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=27
+[NVBLAS] dgemm[cpu]: ta=N, tb=N, m=27, n=9, k=9
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, m=2187, n=729, k=729
+[NVBLAS] dgemm[gpu]: ta=N, tb=N, m=2187, n=2187, k=729
+[NVBLAS] dgemm[gpu]: ta=T, tb=N, 
